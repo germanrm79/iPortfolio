@@ -1,0 +1,15 @@
+German is a Front End  and Backend Developer from Colima, Mexico, 
+I enjoy creating beautiful interface designs. He also loves coding and always strives to write elegant and efficient code, whether it is HTML, CSS or jQuery.
+
+I enjoy coding in different desktop, web and mobile programming languages. I am an engineer with 17 years of experience in different roles, from Desktop Development with basic languages ​​such as C++, VB6, .Net and C#, through web development with HTML, CSS, JavaScript, ASP, Ajax and PHP to Android mobile application development with Android Studio and ReactNative. Regarding database management systems, I have worked with relational database managers such as MYSQL, SQLServer, PostgreSQL; some NoSQL like Mongo DB and some information transfer standards such as XML and JSON.
+
+I love programming and always strive to write elegant and efficient code.
+
+
+
+	Desktop, Web and Mobile developer with 17 years experience. Proficient at  Java, C#, C++, HTML, CSS, PHP, JavaScript, Ajax, and different database managmente system. Looking for a position as a Web Developer. 
+
+
+	This project was done for a company called Agro las Fuentes from Colima, Mexico. This company needed a way to show the characteristics of the products to the different clients in the region. The solution was a Webpage, this  was made using a combination of technologies such as HTML, CSS, PHP, MySQL database and JavaScript. 
+
+I fulfilled all the roles, from designer, developer and web administrator.
